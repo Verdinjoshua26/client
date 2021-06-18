@@ -29,7 +29,7 @@
     "react-modal": "^3.11.2",
     "react-quill": "^1.3.3",
     "react-stripe-elements": "^6.1.0",
-    "react-tooltip": "^4.1.2",
+    "react-tooltip": "^4.2.20",
     "reakit": "0.11.2",
     "smoothscroll-polyfill": "^0.4.4"
   },
